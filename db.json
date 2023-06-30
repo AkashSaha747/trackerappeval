@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "name": "a saha",
+      "email": "a@a.com",
+      "password": "a@123",
+      "id": 1
+    },
+    {
+      "name": "b",
+      "email": "b@b.com",
+      "password": "b@123",
+      "id": 2
+    }
+  ],
+  "data": [
+    {
+      "type": "income",
+      "incomeType": "salary",
+      "expenseType": "",
+      "amount": "120000",
+      "date": "2023-06-09",
+      "email": "b@b.com",
+      "id": 1
+    },
+    {
+      "type": "expense",
+      "incomeType": "",
+      "expenseType": "shopping",
+      "amount": "300000",
+      "date": "2023-06-08",
+      "email": "a@a.com",
+      "id": 3
+    },
+    {
+      "type": "income",
+      "incomeType": "refund",
+      "expenseType": "",
+      "amount": "100",
+      "date": "2023-06-15",
+      "email": "a@a.com",
+      "id": 4
+    }
+  ]
+}
